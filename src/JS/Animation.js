@@ -1,0 +1,2 @@
+export const InfoForm={hidden:{opacity:"0%",x:"30vw"},visible:{opacity:"100%",x:"0vw",transition:{duration:0.3}},exit:{opacity:"0%",x:"-30vw",transition:{duration:"0.5"}}};
+export const QuizForm={hidden:{opacity:"0%",x:"30vw"},visible:{opacity:"100%",x:"0vw",transition:{duration:0.3}},exit:{opacity:"0%",x:"-30vw",transition:{duration:"0.5"}}};
